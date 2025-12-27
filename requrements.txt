@@ -1,0 +1,8 @@
+chainlit
+langchain==0.1.16
+langchain-community==0.0.38
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pypdf
